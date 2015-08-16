@@ -1,21 +1,24 @@
 library(tuneR)
+unloadNamespace('tuneR')
 
-#' Read a wave file as a numeric vector with values between -1 and 1.
+#' Read a wave file into a numeric vector.
 #'
 #' @param file The file name
-read.wav <- function(file) {
+#' @returns The waveform as a numeric vector with values between -1 and 1
+read.wav <- function(file, ...) {
   chan <- tuneR::readWave(file)
-  chan@left / chan@bit
+  chan@left / (2 ^ (chan@bit - 1) - 1)
 }
 
-#' Read a take from an LR-16 as a data frame of numeric vectors with
-#' values between -1 and 1.
+#' Read a take from an LR-16 as a data frame of numeric vectors.
 #'
-#' @param directory Name of the directory for the take
+#' @param directory Name of the directory for the take, like "Take_01"
+#' @returns data.frame of 16 waveforms with values between -1 and 1,
+#'   one from each wav file
 read.lr16.take <- function(directory) {
-  paths <- paste0(directory, .Platform$file.sep, sprintf('chan_%02d.wav', 1:16))
-  muscles <- c('directions', 'microphone', 'this.muscle', 'that.muscle', 5:16)
+  filenames <- sprintf('chan_%02d.wav', 1:16)
+  paths <- paste0(directory, .Platform$file.sep, filenames)
   l <- lapply(paths, read.wav)
-  names(l) <- muscles
-  do.calL(data.frame, l)
+  names(l) <- filenames
+  do.call(data.frame, l)
 }
