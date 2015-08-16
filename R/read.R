@@ -15,7 +15,7 @@ read.wav <- function(file) {
 read.lr16.take <- function(directory) {
   paths <- paste0(directory, .Platform$file.sep, sprintf('chan_%02d.wav', 1:16))
   muscles <- c('directions', 'microphone', 'this.muscle', 'that.muscle', 5:16)
-  df <- as.data.frame(lapply(paths, read.wav))
-  names(df) <- muscles
-  df
+  l <- lapply(paths, read.wav)
+  names(l) <- muscles
+  do.calL(data.frame, l)
 }
