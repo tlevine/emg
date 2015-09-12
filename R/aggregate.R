@@ -25,3 +25,8 @@ rms <- function(xs) ((xs - mean(xs)) ^ 2) ^ 0.5
 # "EMG was sampled at 1,280 hz, and RMS EMG values were calculated at 10 hz." Ciccarelli & al, 2013
 #
 # "System noise was subtracted from non-normalized 10 Hz RMS EMG data (squared noise rMS subtracted from squared task RMS), which were normalized with the EMG MVE values. EMG data for each participant were processed to create graphical repsresentation of EMG amplitude of the right and left upper trapezius and the right wrist extensors." Ciccarelli & al, 2013
+#
+# "Overall differences in EMG amplitude mean, APDF_{90-10}, and EVA_{(SD)} of each musle between the four ICT types..." were compared
+# EVA is exposure variation analysis
+# APDF is cumulative amplitude probability distribution function. (So CDF?)
+# This is for assessment of variation; that's why it's weird.
