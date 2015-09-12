@@ -20,3 +20,6 @@ rms <- function(xs) ((xs - mean(xs)) ^ 2) ^ 0.5
 
 
 # Volume (decibels) by frequency tells us about fatigue; muscles work at lower frequencies as they fatigue. I guess we compute this with a Fourier transform?
+
+
+# "EMG was sampled at 1,280 hz, and RMS EMG values were calculated at 10 hz." Ciccarelli & al, 2013
