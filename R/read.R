@@ -1,4 +1,4 @@
-library(tuneR)
+suppressMessages(library(tuneR))
 unloadNamespace('tuneR')
 
 #' Read a wave file into a numeric vector.
