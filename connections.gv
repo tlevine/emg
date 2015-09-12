@@ -17,4 +17,10 @@ digraph Connections {
   LR16 -> USB;
 
   USB -> R [style="dotted" label="Load files"];
+
+  Tom [label="Tom moves his wrist."];
+  Speaker -> Tom [style="dotted"];
+  Tom -> Extensor [style="dotted"];
+  Tom -> Flexor [style="dotted"];
+  Tom -> Microphone [style="dotted"];
 }
