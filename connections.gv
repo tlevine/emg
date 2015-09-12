@@ -1,0 +1,20 @@
+digraph Connections {
+  Trigger [label="Trigger track\n(Played by a PC)"];
+  LR16 [label="Analog Interface\n(LR-16)"];
+  USB [label="USB drive"];
+
+  subgraph cluster1 {
+    label="Tom's Wrist";
+    Flexor;
+    Extensor;
+  }
+
+  Trigger -> Speaker;
+  Trigger -> LR16;
+  Microphone -> LR16;
+  Flexor -> EMG1 -> LR16;
+  Extensor -> EMG2 -> LR16;
+  LR16 -> USB;
+
+  USB -> R [style="dotted" label="Load files"];
+}
