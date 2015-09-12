@@ -1,3 +1,7 @@
+# It turns out that biomechanics textbooks and papers are rather unclear as to
+# how to compute this stuff. They probably make sense if you already understand
+# them though.
+
 #' Subtract the mean and divide by the standard deviation.
 #'
 #' The difference between normalized EMG of the same action by the same muscle
@@ -14,3 +18,5 @@ normalize <- function(xs) (xs - mean(xs)) / sd(xs)
 rms <- function(xs) ((xs - mean(xs)) ^ 2) ^ 0.5
 
 
+
+# Volume (decibels) by frequency tells us about fatigue; muscles work at lower frequencies as they fatigue. I guess we compute this with a Fourier transform?
