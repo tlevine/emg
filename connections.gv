@@ -3,6 +3,9 @@ digraph Connections {
   LR16 [label="Analog Interface\n(LR-16)"];
   USB [label="USB drive"];
 
+  Output [label="Graphs, report, statistics, &c"];
+  USB, Output [shape="rectangle"];
+
   subgraph cluster1 {
     label="Tom's Wrist";
     Flexor;
@@ -16,7 +19,9 @@ digraph Connections {
   Extensor -> EMG2 -> LR16;
   LR16 -> USB;
 
+  R [label="My analysis\n(software)" shape="diamond"];
   USB -> R [style="dotted" label="Load files"];
+  R -> Output;
 
   Tom [label="Tom moves his wrist."];
   Speaker -> Tom [style="dotted"];
