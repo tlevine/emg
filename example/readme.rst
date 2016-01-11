@@ -1,11 +1,12 @@
-Software
+Raw data recording
 ^^^^^^^^^^^^^^^^^^
 The Cymatic LR-16 produces a directory of wav files named
 ``Track 1.wav``, ``Track 2.wav``, and so on, until ``Track 16.wav``.
 
-I record the trigger track, and I use the rest for
-EMG sensors. I specify what the connections are with a table
-like this one, which the processing software reads.
+I record the triggers as track 1,
+I record an ordinary microphone as track2, and
+I use the remaining tracks for EMG sensors.
+In the present study I have only two EMG sensors.
 
 .. csv-table::
 
@@ -13,10 +14,33 @@ like this one, which the processing software reads.
     1,trigger
     2,microphone
     3,extensor.digitorum
-    4,extensor.indicis
-    5,extensor.digiti.minimi
-    6,flexor.digitorum.superficialis
-    7,flexor.digitorum.profundus
+    4,flexor.digitorum.superficialis
+
+Trigger track
+^^^^^^^^^^^^^^^^^
+Well, first, she said to turn on a light at a particular time rather
+than synchronizing in video. Even easier, turn on a sound.
+Did she call this a "trigger"? Well I'm gonna call it that for now.
+
+Record the following audio track.
+
+Second 0
+    The track starts, and a tone is played. Let's say C4.
+    Then a voice announces either "Audible click" or "No click".
+Second 3
+    Another tone is played, at a major third up from the
+    first tone. So E4. In response, the participant prepares his wrist
+    to make the click or non-click.
+Second 6
+    The fifth interval from the first note is played, so G4.
+    In response, the participant makes the click or the non-click.
+Second 9
+    An arpeggio of the three tones plus the octave of the
+    base note (C4-E4-G4-C5) is played to signal the end of the trial.
+
+Data processing
+^^^^^^^^^^^^^^^^
+I split the data at the tones and do this processing and....
 
 The result of the processing should be a table of a schema like this
 (not necessarily in SQL).
@@ -67,25 +91,3 @@ it will probably do something like this.
       c(before = rms(column[i]),
         after = rms(column[-i]))
     }
-
-Trigger track
-^^^^^^^^^^^^^^^^^
-Well, first, she said to turn on a light at a particular time rather
-than synchronizing in video. Even easier, turn on a sound.
-Did she call this a "trigger"? Well I'm gonna call it that for now.
-
-Record the following audio track.
-
-Second 0
-    The track starts, and a tone is played. Let's say C4.
-    Then a voice announces either "Audible click" or "No click".
-Second 3
-    Another tone is played, at a major third up from the
-    first tone. So E4. In response, the participant prepares his wrist
-    to make the click or non-click.
-Second 6
-    The fifth interval from the first note is played, so G4.
-    In response, the participant makes the click or the non-click.
-Second 9
-    An arpeggio of the three tones plus the octave of the
-    base note (C4-E4-G4-C5) is played to signal the end of the trial.
