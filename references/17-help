@@ -1,0 +1,598 @@
+<!DOCTYPE HTML>
+<html lang="en-gb" dir="ltr"  data-config='{"twitter":1,"plusone":1,"facebook":1,"style":"ca2"}'>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="keywords" content="Help..., Live Recorder LR-16, Cymatic Audio Forum, Forum Cymatic Audio " />
+  <meta name="rights" content="Cymatic Audio" />
+  <meta name="description" content="Just recently I am UNABLE to get ANY input from the 1/4 jacks. The recorder shows that it is recording... BUT I get NO lev..." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Help... (1/1) - Forum Cymatic Audio  - cymatic audio </title>
+  <link href="http://cymaticaudio.com/forum/liverecorderlr-16/17-help" rel="canonical" />
+  <link href="/templates/yoo_eat/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/components/com_kunena/template/euro_gradients/css/mediaboxAdv-min.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_kunena/template/euro_gradients/css/kunena.forum-min.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_kunena/template/euro_gradients/css/kunena.responsive-min.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_kunena/template/euro_gradients/css/kunena.default-min.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_kunena/template/euro_gradients/css/kunena.20-min.css" type="text/css" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-d2498d5b.css" type="text/css" />
+  <style type="text/css">
+	/* Kunena Custom CSS */	#Kunena a:link,
+	#Kunena a:visited,
+	#Kunena a:active {color: #e95e0f !important;}
+	#Kunena a:focus {outline: none;}	#Kunena div.kannouncement div.kheader { background: #FF8800 !important; }	#Kunena div#kannouncement .kanndesc { background: #FFFF73; }	#Kunena #ktab a { background-color: #f7b98e !important; }	#Kunena #ktab ul.menu li.active a,#Kunena #ktab li#current.selected a { background-color: #e95e0f !important; }	#Kunena #ktab a:hover { background-color: #e95e0f !important; }	#Kunena #ktop { border-color: #e95e0f !important; }	#Kunena #ktab a span { color: #FFFFFF !important; }	#Kunena #ktab #current a span { color: #FFFFFF !important; }	#Kunena #ktop span.ktoggler { background-color: #e95e0f !important; }	#Kunena td.kcol-mid { border-bottom-color: #f7b98e; border-left-color: #f7b98e;}
+
+	#Kunena td.kprofile-left {border-right-color: #f7b98e;}
+
+	#Kunena td.kcol-first,
+	#Kunena td.kprofile-left,
+	#Kunena td.kprofile-right,
+	#Kunena td.kbuttonbar-left,
+	#Kunena td.kbuttonbar-right,
+	#Kunena div.kmessage-editmarkup-cover,
+	#Kunena div.kmsg-header
+	{ border-bottom-color: #f7b98e;}
+
+	#Kunena div.kblock div.kbody,
+	#Kunena .klist-markallcatsread,
+	#Kunena .klist-actions,
+	#Kunena .klist-bottom
+	{ border-color: #f7b98e;}
+
+	#Kunena .kforum-pathway {border-right-color: #f7b98e; border-left-color: #f7b98e;}
+	#Kunena .klist-actions-forum,
+	#Kunena .klist-times-all,
+	#Kunena .klist-jump-all,
+	#Kunena .klist-pages-all
+	{border-left-color: #f7b98e;}
+
+	.kunena-profile-bottom { border-bottom: 1px solid #f7b98e;}	#Kunena div.kblock { border-bottom-color: #e95e0f;}	#Kunena .kicon-profile { background-image: url("/components/com_kunena/template/euro_gradients/media/iconsets/profile/default/default.png"); }
+	#Kunena .kicon-button { background-image: url("/components/com_kunena/template/euro_gradients/media/iconsets/buttons/default/default.png") !important; }
+	#Kunena #kbbcode-toolbar li a,#Kunena #kattachments a { background-image:url("/components/com_kunena/template/euro_gradients/media/iconsets/editor/default/default.png"); }
+	#Kunena #Kunena div.kblock > div.kheader, #Kunena .kblock div.kheader {background:url("/components/com_kunena/template/euro_gradients/images/gradients/orange.png") repeat-x scroll 0 center transparent !important;}
+	#Kunena div.kfrontstats div.kheader {background:url("/components/com_kunena/template/euro_gradients/images/gradients/orange.png") repeat-x scroll 0 center transparent !important;}
+	#Kunena div.kwhoisonline div.kheader {background:url("/components/com_kunena/template/euro_gradients/images/gradients/orange.png") repeat-x scroll 0 center transparent !important;}
+	/* End of Kunena Custom CSS */
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/kunena/js/mediaboxAdv.js" type="text/javascript"></script>
+  <script src="/media/kunena/js/default.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-dfef14a4.js" type="text/javascript"></script>
+  <script type="text/javascript">
+// <![CDATA[
+var kunena_toggler_close = "Collapse";
+var kunena_toggler_open = "Expand";
+// ]]>// <![CDATA[
+var kunena_anonymous_name = "Anonymous";
+// ]]>
+  </script>
+  <link rel="alternate" type="application/rss+xml" title="get the latest posts directly to your desktop" href="/forum/topics/mode-topics?format=feed" />
+
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_eat/apple_touch_icon.png">
+<link rel="stylesheet" href="/templates/yoo_eat/styles/ca2/css/bootstrap.css">
+<link rel="stylesheet" href="/templates/yoo_eat/styles/ca2/css/theme.css">
+<link rel="stylesheet" href="/templates/yoo_eat/css/custom.css">
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/uikit.js"></script>
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/addons/autocomplete.js"></script>
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/addons/search.js"></script>
+<script src="/templates/yoo_eat/warp/vendor/uikit/js/addons/sticky.js"></script>
+<script src="/templates/yoo_eat/warp/js/social.js"></script>
+<script src="/templates/yoo_eat/js/theme.js"></script>
+<script type="text/javascript">var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-59835187-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
+          </script></head>
+
+<body class="tm-noblog">
+
+    
+	
+	<div class="tm-headerbar uk-clearfix uk-hidden-small">
+
+		<div class="uk-container uk-container-center">
+
+						<a class="tm-logo" href="http://cymaticaudio.com">
+	<img src="/images/internal/logocymaticaudio_o.png"/></a>
+			
+			
+		</div>
+	</div>
+	
+		<div class="tm-top-block tm-grid-block">
+
+					<nav class="tm-navbar uk-navbar" >
+
+				<div class="uk-container uk-container-center">
+
+					
+											<ul class="uk-navbar-nav uk-hidden-small"><li data-uk-dropdown="{}"><a href="/">HOME</a></li><li class="uk-parent" data-uk-dropdown="{}"><a href="#">PRODUCTS</a>
+<div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/products/live-player-lp16">LP-16</a></li><li><a href="/products/live-recorder-lr16">LR-16</a></li><li><a href="/products/utrack-24">uTrack 24</a></li><li><a href="/products/utrack-x32">uTrack-X32</a></li><li><a href="/products/uremote">uRemote</a></li><li><a href="/products/utool">uTool</a></li><li><a href="/products/accessories">Accessories</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{}"><a href="/support">Support</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/support/faq">FAQ</a></li><li class="uk-active"><a href="/forum">FORUM</a></li><li><a href="/support/downloads">DOWNLOADS</a></li><li><a href="/support/tech-support">TECH SUPPORT</a></li></ul></div></div></div></li><li data-uk-dropdown="{}"><a href="/events">Events</a></li><li data-uk-dropdown="{}"><a href="/press">Press</a></li><li data-uk-dropdown="{}"><a href="/partners">PARTNERS</a></li><li data-uk-dropdown="{}"><a href="http://shop.cymaticaudio.com">Store</a></li><li data-uk-dropdown="{}"><a href="/downloads">DOWNLOADS</a></li></ul>					
+										<a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+					
+										<div class="uk-navbar-content uk-navbar-center uk-visible-small"><a class="tm-logo-small" href="http://cymaticaudio.com">
+	<img src="/images/internal/logocymaticaudio_o.png" alt=""/></a></div>
+					
+				</div>
+
+		</nav>
+		
+	</div>
+	
+	
+	<div class="tm-page">
+
+		
+		
+		
+		
+					<div class="tm-block tm-block-light">
+
+				<div class="uk-container uk-container-center">
+
+					<div class="uk-grid" data-uk-grid-match data-uk-grid-margin>
+
+												<div class="tm-main uk-width-medium-1-1">
+
+							
+														<main class="tm-content">
+
+								
+								
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="/components/com_kunena/template/euro_gradients/css/kunena.forum.ie7.css" type="text/css" />
+<![endif]-->
+<div id="Kunena" class="layout container-fluid">
+<div id="ktop">
+	<div id="ktopmenu">
+		<div id="ktab">
+<ul class="menu">
+<li class="item175"><a  href="/forum/index" ><span>Index</span></a></li><li class="item176"><a  href="/forum/recent" ><span>Recent Topics</span></a></li><li class="item182"><a  href="/forum/search" ><span>Search</span></a></li></ul>
+</div>
+	</div>
+	<span class="ktoggler fltrt"><a class="ktoggler close" title="Collapse" rel="kprofilebox"></a></span>
+</div>
+<div class="kblock kpbox">
+	<div class="kcontainer" id="kprofilebox">
+		<div class="kbody">
+<table class="kprofilebox">
+	<tbody>
+		<tr class="krow1">
+			<td valign="top" class="kprofileboxcnt">
+				<div class="k_guest">
+					Welcome,
+					<b>Guest</b>
+				</div>
+								<form action="/forum" method="post" name="login">
+					<input type="hidden" name="view" value="user" />
+					<input type="hidden" name="task" value="login" />
+					<input type="hidden" name="c1da69de4027dc2866913b6f262d40a2" value="1" />
+
+					<div class="input">
+						<span>
+							Username:							<input type="text" name="username" class="inputbox ks" alt="username" size="18" />
+						</span>
+						<span>
+							Password:							<input type="password" name="password" class="inputbox ks" size="18" alt="password" /></span>
+						<span>
+														Remember me							<input type="checkbox" name="remember" alt="" value="1" />
+														<input type="submit" name="submit" class="kbutton" value="Login" />
+						</span>
+					</div>
+					<div class="klink-block">
+						<span class="kprofilebox-pass">
+							<a href="/component/users/?view=reset" rel="nofollow">Forgot your password?</a>
+						</span>
+						<span class="kprofilebox-user">
+							<a href="/component/users/?view=remind" rel="nofollow">Forgot your username?</a>
+						</span>
+												<span class="kprofilebox-register">
+							<a href="/component/users/?view=registration" rel="nofollow">Create an account</a>
+						</span>
+											</div>
+				</form>
+							</td>
+			<!-- Module position -->
+					</tr>
+	</tbody>
+</table>
+		</div>
+	</div>
+</div>
+
+<div class="kblock kpathway breadcrumbs-1">
+	<div class="kcontainer">
+		<div class="ksectionbody">
+			<div class = "kforum-pathway">
+				<div class="path-element-first"><a href="/forum" rel="nofollow">Forum</a></div>
+								<div class="path-element"><a href="/forum/main-forum" rel="nofollow">Cymatic Audio Forum</a></div>
+								<div class="path-element"><a href="/forum/liverecorderlr-16" rel="nofollow">Live Recorder LR-16</a></div>
+								<div class="path-element"><a href="/forum/liverecorderlr-16/17-help" rel="nofollow">Help...</a></div>
+							</div>
+		</div>
+	</div>
+</div>
+
+	<div id="kforum-head" class=" kforum-headerdesc">
+		Live Recorder LR-16	</div>
+
+<table class="klist-actions">
+	<tr>
+		<td class="klist-actions-goto">
+			<a name="forumtop"></a><a class="kbuttongoto" href="#forumbottom" rel="nofollow"><span class="kicon kforumbottom" title="Go to bottom"></span></a>		</td>
+		<td class="klist-actions-forum">
+						</td>
+		
+		<td class="klist-pages-all">
+					</td>
+	</tr>
+</table>
+
+<div class="kblock">
+	<div class="kheader">
+		<h1><span>Help...</span></h1>
+							</div>
+	<div class="kcontainer">
+		<div class="kbody"><div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgtitle kmsg-title-left">
+			Help...		</span>
+		<span class="kmsgdate kmsgdate-left" title="21 Dec 2014 16:26">
+			1 year 3 weeks ago		</span>
+		<span class="kmsg-id-left">
+			<a id="25"></a>
+			<a href="#25" rel="nofollow">#25</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul class="kpost-profile">
+		<li class="kpost-username">
+			<span class="kwho-user">Conan</span>		</li>
+						<li class="kpost-avatar">
+			<span class="kavatar"><span class="kwho-user"><img class="kavatar" src="http://cymaticaudio.com/media/kunena/avatars/resized/size144/euro_gradients/nophoto.jpg" alt="Conan's Avatar"  /></span></span>
+		</li>
+		
+		
+		<li>
+			<span class="kicon-button kbuttononline-no">
+				<span class="online-no">
+					<span>Offline</span>
+				</span>
+			</span>
+		</li>
+
+				<li class="kpost-userrank">
+			New Member		</li>
+						<li class="kpost-userrank-img">
+			<img src="/media/kunena/ranks/rank1.gif" alt="" />		</li>
+		
+						<li class="kpost-userposts">Posts: 2</li>
+							<li class="kpost-usertyr">Thank you received: 1</li>
+								<li class="kpost-karma">
+			<span class="kmsgkarma">
+				Karma: 1  			</span>
+		</li>
+				
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+
+		</ul>
+			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kunena-message-top">
+			</div>
+	<div class="kmsgtext">
+		Just recently I am UNABLE to get ANY input from the 1/4 jacks.<br />
+The recorder shows that it is recording... BUT I get NO levels on ANY track.<br />
+I have checked all cables and input.<br />
+The drive has tracks recoded, but all tracks are BLANK.<br />
+The recorder is just under 6 months old, and not used often. I've never had an issue.<br />
+I've put out requests to 'support' but I have received no replies.<br />
+<br />
+Please Advise if I NEED to return the unit (and how to do that)  <img src="/media/kunena/emoticons/unsure.png" width="20" height="20" alt=":unsure:" title=":unsure:" class="bbcode_smiley" /> or is there a fix for this problem.<br />
+Thanks	</div>
+	<div class="kunena-message">
+			</div>
+</div>
+<div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover hidden-phone">
+		</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+			The administrator has disabled public write access.																								</div>
+</div>
+<div class="kmessage-thankyou">
+The following user(s) said Thank You: <span class="kwho-user">fasted</span> </div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<!-- Begin: Message Module Position -->
+<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgtitle kmsg-title-left">
+			Help...		</span>
+		<span class="kmsgdate kmsgdate-left" title="05 Jan 2015 14:36">
+			1 year 1 week ago		</span>
+		<span class="kmsg-id-left">
+			<a id="31"></a>
+			<a href="#31" rel="nofollow">#31</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul class="kpost-profile">
+		<li class="kpost-username">
+			<span class="kwho-guest">Sven</span>		</li>
+						<li class="kpost-avatar">
+			<span class="kavatar"><span class="kwho-guest"><img class="kavatar" src="http://cymaticaudio.com/media/kunena/avatars/resized/size144/euro_gradients/nophoto.jpg" alt="Sven's Avatar"  /></span></span>
+		</li>
+		
+		</ul>
+			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kunena-message-top">
+			</div>
+	<div class="kmsgtext">
+		Hi Connan,<br />
+Have you been able to contact your distributor?<br />
+<br />
+Cymatic Audio Support	</div>
+	<div class="kunena-message">
+			</div>
+</div>
+<div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover hidden-phone">
+		</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+			The administrator has disabled public write access.																								</div>
+</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<!-- Begin: Message Module Position -->
+<!-- Finish: Message Module Position -->
+<div class="kmsg-header kmsg-header-left">
+	<h2>
+		<span class="kmsgtitle kmsg-title-left">
+			Help...		</span>
+		<span class="kmsgdate kmsgdate-left" title="05 Jan 2015 17:09">
+			1 year 1 week ago		</span>
+		<span class="kmsg-id-left">
+			<a id="36"></a>
+			<a href="#36" rel="nofollow">#36</a>		</span>
+	</h2>
+</div>
+<table class="kmsg">
+	<tbody>
+		<tr>
+			<td rowspan="2" class="kprofile-left">
+					<ul class="kpost-profile">
+		<li class="kpost-username">
+			<span class="kwho-user">Conan</span>		</li>
+						<li class="kpost-avatar">
+			<span class="kavatar"><span class="kwho-user"><img class="kavatar" src="http://cymaticaudio.com/media/kunena/avatars/resized/size144/euro_gradients/nophoto.jpg" alt="Conan's Avatar"  /></span></span>
+		</li>
+		
+		
+		<li>
+			<span class="kicon-button kbuttononline-no">
+				<span class="online-no">
+					<span>Offline</span>
+				</span>
+			</span>
+		</li>
+
+				<li class="kpost-userrank">
+			New Member		</li>
+						<li class="kpost-userrank-img">
+			<img src="/media/kunena/ranks/rank1.gif" alt="" />		</li>
+		
+						<li class="kpost-userposts">Posts: 2</li>
+							<li class="kpost-usertyr">Thank you received: 1</li>
+								<li class="kpost-karma">
+			<span class="kmsgkarma">
+				Karma: 1  			</span>
+		</li>
+				
+		<li class="kpost-smallicons">
+			<span class="kicon-profile kicon-profile-gender-unknown" title="Gender: Unknown"></span>																	</li>
+
+		</ul>
+			</td>
+			<td class="kmessage-left">
+				
+<div class="kmsgbody">
+	<div class="kunena-message-top">
+			</div>
+	<div class="kmsgtext">
+		Thanks Sven for the follow up...<br />
+Spoke with the distributor today,<br />
+I have just sent a follow up email to you...<br />
+<br />
+I am still in need of help with this<br />
+Please, advise....	</div>
+	<div class="kunena-message">
+			</div>
+</div>
+<div>
+			</td>
+		</tr>
+		<tr>
+			<td class="kbuttonbar-left">
+				<div>
+	</div>
+<div class="kmessage-editmarkup-cover hidden-phone">
+		</div>
+<div class="kmessage-buttons-cover">
+	<div class="kmessage-buttons-row">
+			The administrator has disabled public write access.																								</div>
+</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<!-- Begin: Message Module Position -->
+<!-- Finish: Message Module Position -->
+</div>
+	</div>
+</div>
+<table class="klist-actions">
+	<tr>
+		<td class="klist-actions-goto">
+			<a name="forumbottom"></a><a class="kbuttongoto" href="#forumtop" rel="nofollow"><span class="kicon kforumtop" title="Go to top"></span></a>		</td>
+		<td class="klist-actions-forum">
+						</td>
+		
+		<td class="klist-pages-all">
+					</td>
+	</tr>
+</table>
+
+<div class="kcontainer klist-bottom">
+	<div class="kbody">
+		<div class="kmoderatorslist-jump fltrt">
+				<form action="/forum" id="jumpto" name="jumpto" method="post" target="_self">
+	<input type="hidden" name="view" value="category" />
+	<input type="hidden" name="task" value="jump" />
+
+	<span class="kright">
+		<select name="catid" id="catid" class="inputbox fbs" size="1" onchange = "this.form.submit()"><option value="0">Board Categories</option>
+<option value="1"> Cymatic Audio Forum</option>
+<option value="3">-  Suggestion Box</option>
+<option value="9">- -  LP-16 suggestions &amp; feature requests</option>
+<option value="10">- -  LR-16 suggestions &amp; feature requests</option>
+<option value="11">- -  uTrack24  suggestions &amp; feature requests</option>
+<option value="12">- -  uTool suggestions &amp; feature requests</option>
+<option value="13">-  uTrack-X32</option>
+<option value="6">-  uTrack 24</option>
+<option value="5">-  Live Player LP-16</option>
+<option value="4" selected="selected">-  Live Recorder LR-16</option>
+<option value="8">-  uTool</option>
+<option value="7">-  USB Drives General</option>
+</select>		<input type="submit" name="Go" class="kbutton ks" value="Go" />
+	</span>
+</form>
+		</div>
+			</div>
+</div>
+
+<div class="kblock kpathway breadcrumbs-2">
+	<div class="kcontainer">
+		<div class="ksectionbody">
+			<div class = "kforum-pathway">
+				<div class="path-element-first"><a href="/forum" rel="nofollow">Forum</a></div>
+								<div class="path-element"><a href="/forum/main-forum" rel="nofollow">Cymatic Audio Forum</a></div>
+								<div class="path-element"><a href="/forum/liverecorderlr-16" rel="nofollow">Live Recorder LR-16</a></div>
+								<div class="path-element"><a href="/forum/liverecorderlr-16/17-help" rel="nofollow">Help...</a></div>
+							</div>
+		</div>
+	</div>
+</div>
+<!-- Module position: kunena_bottom -->
+<div class="krss-block"><a href="/forum/topics/mode-topics?format=feed" rel="follow"><span class="kicon krss" title="get the latest posts directly to your desktop"></span></a></div>
+<div class="kfooter">
+	<span class="kfooter-time">Time to create page: 0.189 seconds</span>
+</div>
+</div>
+
+							</main>
+							
+							
+						</div>
+						
+																		
+					</div>
+
+				</div>
+
+			</div>
+		
+        
+		
+		
+				<div class="tm-bottom tm-block">
+			<div class="uk-container uk-container-center">
+				<section class="tm-bottom-c uk-grid" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
+<div class="uk-width-1-1"><div class="uk-panel">
+	<table border="0" style="width: 100%;" cellspacing="10" cellpadding="10" align="center">
+<tbody>
+<tr>
+<td valign="middle" nowrap="nowrap" bgcolor="#e8882a" width="100%">
+<div style="background-color: #e8882a; background-position: center; text-align: center;"><a href="https://www.youtube.com/channel/UCe5lgqtiDQoribEZl_iXdGQ/videos" target="_blank"><img src="/images/YouTubelight.png" alt="YouTubelight" width="78" height="49" /></a>&nbsp;&nbsp;<span style="color: #ffffff;">&nbsp;<a href="https://www.facebook.com/CymaticAudio" target="_blank"><img src="/images/FB-f-Logo__white_512.png" alt="FB f Logo white 512" width="39" height="39" /></a></span><span style="color: #ffffff;"><br /></span></div>
+</td>
+</tr>
+</tbody>
+</table></div></div>
+</section>
+			</div>
+		</div>
+		
+	</div>
+
+		<div class="tm-block">
+		<div class="uk-container uk-container-center">
+			<footer class="tm-footer uk-text-center">
+
+				<div>
+				<div class="uk-panel"><ul class="uk-subnav uk-subnav-line"><li><a href="/leave-a-message">Contact</a></li><li><a href="/2014-10-13-08-41-42"> Imprint &amp; Terms of Use</a></li><li><a href="/career">Jobs</a></li></ul></div>
+<div class="uk-panel">
+	<p>Copyright &copy; 2015 Cymatic Audio.&nbsp; All Rights Reserved.</p></div>				</div>
+
+				<div>
+									<a class="uk-button uk-button-small uk-button-primary tm-totop-scroller" data-uk-smooth-scroll href="#"><i class="uk-icon-chevron-up"></i></a>
+								</div>
+
+			</footer>
+		</div>
+	</div>
+	
+	
+		<div id="offcanvas" class="uk-offcanvas">
+		<div class="uk-offcanvas-bar"><ul class="uk-nav uk-nav-offcanvas"><li><a href="/">HOME</a></li><li class="uk-parent"><a href="#">PRODUCTS</a>
+<ul class="uk-nav-sub"><li><a href="/products/live-player-lp16">LP-16</a></li><li><a href="/products/live-recorder-lr16">LR-16</a></li><li><a href="/products/utrack-24">uTrack 24</a></li><li><a href="/products/utrack-x32">uTrack-X32</a></li><li><a href="/products/uremote">uRemote</a></li><li><a href="/products/utool">uTool</a></li><li><a href="/products/accessories">Accessories</a></li></ul></li><li class="uk-parent"><a href="/support">Support</a><ul class="uk-nav-sub"><li><a href="/support/faq">FAQ</a></li><li class="uk-active"><a href="/forum">FORUM</a></li><li><a href="/support/downloads">DOWNLOADS</a></li><li><a href="/support/tech-support">TECH SUPPORT</a></li></ul></li><li><a href="/events">Events</a></li><li><a href="/press">Press</a></li><li><a href="/partners">PARTNERS</a></li><li><a href="http://shop.cymaticaudio.com">Store</a></li><li><a href="/downloads">DOWNLOADS</a></li></ul></div>
+	</div>
+	
+
+</body>
+</html>
