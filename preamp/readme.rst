@@ -1,6 +1,7 @@
 I think I need a pre-amp for the microphone that I want to plug in to the
 LR-16. Is this right? If so, where can I buy a cheap (and low-quality)
-pre-amp? I don't know much about audio equipment, as you may guess.
+pre-amp? Or, maybe the thing I need is called something else.
+I don't know much about audio equipment, as you may guess.
 
 Do I need a pre-amp?
 ---------------------
@@ -18,22 +19,26 @@ computer has a microphone port and a headphones port.
     PC input (high mic boost), Can hear,         Can hear (loudly!)
 
 I plugged these things into each other in the various combinations above and
-heard or didn't hear the results above. This makes me think that my PC sound
-card has a pre-amp.
+heard or didn't hear the results above.
 
 In addition to using the built-in PC sound card, I also tried
 a `cheap USB sound card <http://www.ebay.com/itm/161739128793>`_,
 and the results were the same as with the built-in card.
 
-Also, you can lower the volume on individual channels within the LR-16, but
-you can't increase their volumes; the default gain level is 0 decibels, and
-the only other options are negative numbers.
+This makes me think that my sound cards have pre-amps or the sound system
+software does something equivalent.
 
-Cheap preamps
+Adding to my belief that I need a pre-amp, I see that you can lower the volume
+on individual channels within the LR-16 but can't increase their volumes; the
+default gain level is 0 decibels, and the only other options are negative
+numbers.
+
+Cheap pre-amps
 ----------------
-I want to buy a small, cheap preamp for this microphone. I want it to be small
-and cheap because bad quality is fine and I want it to be easy to carry.
-(I'm going to have several similar inputs.)
+I want to buy a small, cheap pre-amp for this microphone. I want it to be small
+and cheap because bad quality is fine for what I'm doing and because I want
+the pre-amp to be easy to carry.
+I'm going to have several similar inputs and thus several pre-amps.
 
 I found a bunch of things marketed as pre-amps, but I don't really know what
 I'm doing.
@@ -42,6 +47,17 @@ I'm doing.
 * https://www.sparkfun.com/products/retired/8872
 * http://www.instructables.com/id/Build-The-5-Microphone-Preamp/?ALLSTEPS
 
+But I'm concerned by my inability to find small a cheap thing that takes.
+On one hand, this could be a strange thing that few people need and that there
+thus is little market for. On the other hand, it could indicate that I'm doing
+something more strangely than I need to. This is what I managed to find.
 
+* http://www.parts-express.com/fiio-e3-miniature-headphone-amplifier--230-108
+* http://fiio.net/en/products/15
+* http://www.sonicelectronix.com/item_27392_PAC-LD-10.html
+* http://www.trustedreviews.com/FiiO-E5-Headphone-Amplifier-review
 
-But I'm confused by my inability to find.
+Anyway, I arrived finally at the following cheap board that I think does what
+I want. If I connect this board to power, connect the input to the microphone,
+and connect the output to the LR-16, should the microphone play loudly enough?
+http://www.ebay.com/itm/The-New-Low-Power-TDA8932-35W-Digital-Amplifier-Board-Module-Mono-Power-/252115649725?hash=item3ab34384bd:g:7g8AAOSwDFNWFBtH
